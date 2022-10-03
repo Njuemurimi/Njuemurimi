@@ -1,6 +1,6 @@
 - 👋 Hello, I am @Njuemurimi
 - 👀 I’m interested in . . .web and game development
-- 🌱 I’m currently learning . . .CS550
+- 🌱 I’m currently learning . . .CS50
 - 💞️ I’m looking to collaborate on . . .assistance to learn how to cleanly code
 - 📫 How to reach me on njuemurimi@gmail.com
 
